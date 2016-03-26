@@ -1,0 +1,60 @@
+.brownie {
+padding-left: 50px;
+text-align: auto;
+opacity:1;
+margin-bottom: 500px;
+}
+.container{
+grid-template-columns: 20%;
+grid-template-rows: 20%;
+opacity:1;
+}
+
+#market{
+margin-top: 200px;
+opacity:1;
+}
+
+#grandmaDiv{
+margin-left: 200px;
+float: left;
+height: 100px;
+opacity:1;
+padding-bottom:200px;
+}
+#ironchefDiv{
+margin-left: 50px;
+float: left;
+opacity:1;
+padding-top:100px;
+padding-left:120px;
+}
+
+div.wrapper{
+width:1200px;
+background-color: white;
+display:inline-block;
+margin: auto;
+height: auto;
+opacity:0.9;
+}
+
+body {
+text-align: center;
+background-image: url("../images/giphy.gif");
+}
+div.content_wrapper{
+display:inline-block;
+width:49%;
+height: 90%;
+/border-left: 5px solid black;/
+}
+div.content_wrapper:last-child{
+border-left: 5px solid black;
+}
+div.store{
+}
+
+.pushup{
+    padding-bottom: 500px;
+}
